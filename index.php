@@ -18,7 +18,7 @@
                     <input type="text" name="username" class="form-control" required>
                 </div>
                 <div class="form-group">
-                    <label for="password">Lozinka</label>
+                    <label for="password">Lozinka za logovanje</label>
                     <input type="password" name="password" class="form-control" required>
                 </div>
                 <button type="submit" class="btn btn-primary btn-block mt-4" name="submit">Prijavi se</button>
